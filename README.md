@@ -339,9 +339,9 @@ Geplante Testabdeckung:
 
 | Name | Beitrag |
 | ------ | --------- |
-| Fabian Vokrraj | 🚧 |
-| Albin Tahiri | 🚧 |
-| Amir Muliqi | 🚧 |
+| Fabian Vokrraj | 🚧 Datenbank, ORM & Dokumenation |
+| Albin Tahiri | 🚧 Businesslogik & Dokumentation |
+| Amir Muliqi | 🚧 NiceGUI UI & Dokumentation |
 
 ---
 
