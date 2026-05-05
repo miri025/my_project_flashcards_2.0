@@ -1,0 +1,2720 @@
+{
+    "Kapitel 1 – Einführung in Computer und Programmierung": [
+        {
+            "question": "Wie nennt man die physischen Bestandteile eines Computers?",
+            "options": [
+                "1) Software",
+                "2) Hardware",
+                "3) Firmware",
+                "4) Middleware"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Bauteil wird auch als 'Herz des Computers' bezeichnet?",
+            "options": [
+                "1) Arbeitsspeicher",
+                "2) Festplatte",
+                "3) CPU",
+                "4) Grafikkarte"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was bedeutet RAM?",
+            "options": [
+                "1) Random Access Memory",
+                "2) Rapid Action Module",
+                "3) Read Access Mode",
+                "4) Remote Application Memory"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Speicherart ist flüchtig und verliert Daten beim Ausschalten?",
+            "options": [
+                "1) ROM",
+                "2) SSD",
+                "3) RAM",
+                "4) USB-Stick"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Codierung unterstützt mehrere Sprachen und ist heute Standard?",
+            "options": [
+                "1) ASCII",
+                "2) Unicode",
+                "3) Binary",
+                "4) Hexadezimal"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Speicherart ist am schnellsten, aber auch am teuersten?",
+            "options": [
+                "1) Festplatte",
+                "2) RAM",
+                "3) SSD",
+                "4) Cache"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Was versteht man unter einem Programm?",
+            "options": [
+                "1) Eine Hardwarekomponente",
+                "2) Eine Reihe von Anweisungen",
+                "3) Ein Betriebssystem",
+                "4) Ein Eingabegerät"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Kategorie gehört zu Systemsoftware?",
+            "options": [
+                "1) Word",
+                "2) E-Mail-Programm",
+                "3) Betriebssystem",
+                "4) Webbrowser"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Zahlensysteme nutzt ein Computer intern?",
+            "options": [
+                "1) Dezimal",
+                "2) Hexadezimal",
+                "3) Binär",
+                "4) Oktal"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Einheit besteht aus 8 Bits?",
+            "options": [
+                "1) Kilobyte",
+                "2) Byte",
+                "3) Word",
+                "4) Nibble"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ist ein Beispiel für ein Eingabegerät?",
+            "options": [
+                "1) Bildschirm",
+                "2) Drucker",
+                "3) Maus",
+                "4) Lautsprecher"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Aufgabe hat das Betriebssystem?",
+            "options": [
+                "1) Daten speichern",
+                "2) Hardware steuern",
+                "3) Programme schreiben",
+                "4) Daten eingeben"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Art von Speicher eignet sich für dauerhafte Speicherung?",
+            "options": [
+                "1) RAM",
+                "2) ROM",
+                "3) Festplatte",
+                "4) Cache"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was beschreibt der Begriff 'Digital'?",
+            "options": [
+                "1) Daten in Wellenform",
+                "2) Daten als 0 und 1",
+                "3) Daten auf Papier",
+                "4) Daten nur in Textform"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Speichermedium ist am robustesten gegen Stöße?",
+            "options": [
+                "1) HDD",
+                "2) SSD",
+                "3) Diskette",
+                "4) Magnetband"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches ist KEIN Ausgabegerät?",
+            "options": [
+                "1) Drucker",
+                "2) Bildschirm",
+                "3) USB-Stick",
+                "4) Lautsprecher"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie nennt man den Vorgang, wenn der Prozessor Befehle Schritt für Schritt ausführt?",
+            "options": [
+                "1) Dekodierung",
+                "2) Fetch-Decode-Execute-Zyklus",
+                "3) Kompilierung",
+                "4) Virtualisierung"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches ist ein Beispiel für Anwendungssoftware?",
+            "options": [
+                "1) Excel",
+                "2) Windows",
+                "3) Linux Kernel",
+                "4) BIOS"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Einheit wird genutzt, um die Geschwindigkeit einer CPU zu messen?",
+            "options": [
+                "1) Byte/s",
+                "2) Hertz",
+                "3) Volt",
+                "4) Pascal"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Dateiformat steht typischerweise für ausführbare Programme in Windows?",
+            "options": [
+                "1) .exe",
+                "2) .txt",
+                "3) .jpg",
+                "4) .docx"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was bezeichnet man als 'Booten'?",
+            "options": [
+                "1) Ausschalten eines Computers",
+                "2) Starten des Betriebssystems",
+                "3) Löschen des Arbeitsspeichers",
+                "4) Installieren eines Programms"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Bestandteil speichert das BIOS?",
+            "options": [
+                "1) RAM",
+                "2) ROM",
+                "3) SSD",
+                "4) CPU"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ist Open Source Software?",
+            "options": [
+                "1) Software die gekauft werden muss",
+                "2) Software die nicht installiert werden muss",
+                "3) Software mit offenem Quellcode",
+                "4) Software nur für Windows"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Aufgabe hat die Grafikkarte?",
+            "options": [
+                "1) Internetverbindung herstellen",
+                "2) Bildsignale verarbeiten",
+                "3) Programme speichern",
+                "4) Stromversorgung sicherstellen"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Einheit ist grösser?",
+            "options": [
+                "1) Kilobyte",
+                "2) Megabyte",
+                "3) Gigabyte",
+                "4) Terabyte"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Welcher Speicher ist für BIOS-Updates zuständig?",
+            "options": [
+                "1) ROM",
+                "2) Flash-Speicher",
+                "3) RAM",
+                "4) Cache"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was beschreibt der Begriff 'Compiler'?",
+            "options": [
+                "1) Übersetzt Quellcode in Maschinenbefehle",
+                "2) Speichert Daten dauerhaft",
+                "3) Startet Programme automatisch",
+                "4) Überträgt Daten über das Netzwerk"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Sprache versteht der Prozessor direkt?",
+            "options": [
+                "1) Python",
+                "2) Java",
+                "3) Maschinensprache",
+                "4) C++"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Form der Software dient zur Steuerung der Hardware?",
+            "options": [
+                "1) Anwendungssoftware",
+                "2) Systemsoftware",
+                "3) Hilfsprogramme",
+                "4) Kommunikationssoftware"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Daten repräsentieren den Grundaufbau digitaler Systeme?",
+            "options": [
+                "1) 0 und 1",
+                "2) Buchstaben",
+                "3) Dezimalzahlen",
+                "4) Farben"
+            ],
+            "answer": 1
+        }
+    ],
+    "Kapitel 2 – Input, Processing, Output": [
+        {
+            "question": "Welche Funktion gibt Text auf dem Bildschirm aus?",
+            "options": [
+                "1) echo()",
+                "2) print()",
+                "3) display()",
+                "4) show()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Mit welchem Symbol werden Kommentare in Python eingeleitet?",
+            "options": [
+                "1) //",
+                "2) /* */",
+                "3) #",
+                "4) --"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Funktion liest Benutzereingaben ein?",
+            "options": [
+                "1) input()",
+                "2) scan()",
+                "3) read()",
+                "4) get()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche der folgenden ist KEINE gültige Variable?",
+            "options": [
+                "1) name1",
+                "2) _value",
+                "3) 1age",
+                "4) user_input"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Datenstruktur erhält man bei Eingaben über input() standardmäßig?",
+            "options": [
+                "1) int",
+                "2) float",
+                "3) string",
+                "4) bool"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Funktion wird genutzt, um eine Eingabe in eine Ganzzahl umzuwandeln?",
+            "options": [
+                "1) toInt()",
+                "2) parse()",
+                "3) int()",
+                "4) number()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Division liefert eine Ganzzahl?",
+            "options": [
+                "1) /",
+                "2) //",
+                "3) %",
+                "4) **"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ergibt 7 % 3?",
+            "options": [
+                "1) 1",
+                "2) 2",
+                "3) 3",
+                "4) 4"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches ist die richtige Operator-Reihenfolge?",
+            "options": [
+                "1) + vor *",
+                "2) * vor +",
+                "3) Links nach rechts immer",
+                "4) Keine Reihenfolge"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie kennzeichnet man eine Zeichenkette (String) in Python?",
+            "options": [
+                "1) Nur ' '",
+                "2) Nur \" \"",
+                "3) ' ' oder \" \"",
+                "4) < >"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Datentyp passt zu 3.14?",
+            "options": [
+                "1) int",
+                "2) float",
+                "3) str",
+                "4) bool"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie heißt der Zyklus beim Programmieren? Planen → Coden → Testen → ...",
+            "options": [
+                "1) Programmierzyklus",
+                "2) Softwareentwicklungszyklus",
+                "3) Datenzyklus",
+                "4) Outputzyklus"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie bezeichnet man einen 'Platzhaltercode', der nicht ausgeführt wird?",
+            "options": [
+                "1) Pseudocode",
+                "2) Kompilat",
+                "3) Debugcode",
+                "4) Dummy-Code"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welches Symbol steht in Flussdiagrammen für Start/Ende?",
+            "options": [
+                "1) Rechteck",
+                "2) Raute",
+                "3) Oval",
+                "4) Pfeil"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Operator steht für Potenzen?",
+            "options": [
+                "1) ^",
+                "2) **",
+                "3) pow()",
+                "4) ^^"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie kennzeichnet man einen Konstanten-Namen in Python?",
+            "options": [
+                "1) Großbuchstaben",
+                "2) Kleinbuchstaben",
+                "3) Unterstrich zuerst",
+                "4) Zahl am Ende"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was passiert bei input('Zahl: ')?",
+            "options": [
+                "1) Eine Zahl wird ausgegeben",
+                "2) Programm beendet",
+                "3) Benutzer muss Eingabe machen",
+                "4) Nichts"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welches ist KEINE arithmetische Operation?",
+            "options": [
+                "1) +",
+                "2) -",
+                "3) *",
+                "4) =="
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Wie verbindet man Strings?",
+            "options": [
+                "1) +",
+                "2) &",
+                "3) concat()",
+                "4) join()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was ergibt print('A', 'B')?",
+            "options": [
+                "1) AB",
+                "2) A B",
+                "3) ['A','B']",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Funktion verwandelt eine Zeichenkette in eine Kommazahl?",
+            "options": [
+                "1) float()",
+                "2) double()",
+                "3) decimal()",
+                "4) convert()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Operator vergleicht zwei Werte auf Gleichheit?",
+            "options": [
+                "1) =",
+                "2) ==",
+                "3) !",
+                "4) :="
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Klammern verwendet man für Funktionsaufrufe?",
+            "options": [
+                "1) []",
+                "2) {}",
+                "3) ()",
+                "4) <>"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was entsteht durch Verarbeitung der Eingaben im Programm?",
+            "options": [
+                "1) Code",
+                "2) Output",
+                "3) Memory",
+                "4) Kommentare"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie nennt man die Eingaben, die ein Benutzer macht?",
+            "options": [
+                "1) Processing",
+                "2) Output",
+                "3) Input",
+                "4) Cache"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Operator gibt den Rest einer Division zurück?",
+            "options": [
+                "1) /",
+                "2) %",
+                "3) //",
+                "4) **"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ergibt int(3.9)?",
+            "options": [
+                "1) 4",
+                "2) 3",
+                "3) 3.9",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was bedeutet Output?",
+            "options": [
+                "1) Daten verarbeiten",
+                "2) Daten ausgeben",
+                "3) Daten eingeben",
+                "4) Daten löschen"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Mit welchem Befehl wird ein Wert potenziert?",
+            "options": [
+                "1) pow()",
+                "2) power()",
+                "3) exp()",
+                "4) potenz()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welches Zeichen trennt Argumente im Funktionsaufruf?",
+            "options": [
+                "1) &",
+                "2) ,",
+                "3) :",
+                "4) ;"
+            ],
+            "answer": 2
+        }
+    ],
+    "Kapitel 3 – Entscheidungen und Boolesche Logik": [
+        {
+            "question": "Welches Schlüsselwort wird für eine einfache Verzweigung in Python verwendet?",
+            "options": [
+                "1) switch",
+                "2) if",
+                "3) case",
+                "4) when"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Operator prüft auf Gleichheit?",
+            "options": [
+                "1) =",
+                "2) ==",
+                "3) !=",
+                "4) =>"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Aussage ist korrekt?",
+            "options": [
+                "1) if prüft eine Bedingung",
+                "2) if führt eine Schleife aus",
+                "3) if ist ein Kommentar",
+                "4) if speichert Daten"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Vergleichsoperatoren gibt es?",
+            "options": [
+                "1) <, >, ==, !=",
+                "2) ++, --, !=",
+                "3) =, =>, <=",
+                "4) nur =="
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie kombiniert man Bedingungen?",
+            "options": [
+                "1) with",
+                "2) and/or",
+                "3) plus",
+                "4) union"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Ergebnis liefert not True?",
+            "options": [
+                "1) True",
+                "2) False",
+                "3) 1",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie prüft man, ob zwei Werte ungleich sind?",
+            "options": [
+                "1) <>",
+                "2) !=",
+                "3) not ==",
+                "4) =/="
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Struktur erlaubt mehrere Alternativen?",
+            "options": [
+                "1) if-elif-else",
+                "2) switch",
+                "3) while",
+                "4) loop"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Operator liefert True, wenn mindestens eine Bedingung stimmt?",
+            "options": [
+                "1) and",
+                "2) or",
+                "3) not",
+                "4) xor"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie schreibt man eine einzeilige if-Anweisung?",
+            "options": [
+                "1) if Bedingung: Anweisung",
+                "2) if(Bedingung) { }",
+                "3) if -> Anweisung",
+                "4) if then Anweisung"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "String-Vergleiche in Python sind …",
+            "options": [
+                "1) nicht möglich",
+                "2) case-sensitive",
+                "3) case-insensitive",
+                "4) zufällig"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ist ein boolescher Datentyp?",
+            "options": [
+                "1) Zeichenkette",
+                "2) Zahl",
+                "3) Wahrheitswert",
+                "4) Objekt"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Ausdruck ist immer False?",
+            "options": [
+                "1) 5 < 10",
+                "2) 3 == 4",
+                "3) 'a' < 'b'",
+                "4) True or False"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie heißt der Operator ':=' in Python?",
+            "options": [
+                "1) Walrus Operator",
+                "2) Seal Operator",
+                "3) Dolphin Operator",
+                "4) Assign-Equal"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welches Ergebnis liefert (True and False) or True?",
+            "options": [
+                "1) True",
+                "2) False",
+                "3) Fehler",
+                "4) None"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Operator negiert einen Wahrheitswert?",
+            "options": [
+                "1) not",
+                "2) negate",
+                "3) !",
+                "4) ~"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie vergleicht man Strings in Python?",
+            "options": [
+                "1) Mit compare()",
+                "2) Mit ==",
+                "3) Mit equal()",
+                "4) Mit ==="
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Struktur ist KEINE Entscheidungsstruktur?",
+            "options": [
+                "1) if",
+                "2) if-else",
+                "3) for",
+                "4) if-elif-else"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Wert wird als False interpretiert?",
+            "options": [
+                "1) 1",
+                "2) -1",
+                "3) 0",
+                "4) 100"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher boolesche Ausdruck ergibt True?",
+            "options": [
+                "1) False and False",
+                "2) False and True",
+                "3) True and False",
+                "4) True or False"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Was bedeutet 'elif'?",
+            "options": [
+                "1) else if",
+                "2) else loop",
+                "3) every if",
+                "4) element if"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Vergleich ist korrekt?",
+            "options": [
+                "1) 5 => 3",
+                "2) 5 >= 3",
+                "3) 5 <> 3",
+                "4) 5 >< 3"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was liefert bool(0)?",
+            "options": [
+                "1) True",
+                "2) False",
+                "3) 0",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Werte gelten ebenfalls als False?",
+            "options": [
+                "1) 'True'",
+                "2) 1.0",
+                "3) []",
+                "4) [1]"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Ausdruck prüft, ob x zwischen 1 und 5 liegt?",
+            "options": [
+                "1) x > 1 and x < 5",
+                "2) 1 < x < 5",
+                "3) x == 1 to 5",
+                "4) in range(1,5)"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie schreibt man eine sonst-Anweisung?",
+            "options": [
+                "1) else:",
+                "2) other:",
+                "3) default:",
+                "4) none:"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Entscheidung wird zuerst geprüft?",
+            "options": [
+                "1) else",
+                "2) elif",
+                "3) if",
+                "4) not"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Schlüsselwörter gehören zusammen?",
+            "options": [
+                "1) if – for – else",
+                "2) if – elif – else",
+                "3) if – then – else",
+                "4) do – else – end"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Ausdruck ist äquivalent zu not (x > 5)?",
+            "options": [
+                "1) x >= 5",
+                "2) x <= 5",
+                "3) x < 5",
+                "4) x == 5"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was ergibt True and (False or True)?",
+            "options": [
+                "1) True",
+                "2) False",
+                "3) None",
+                "4) Fehler"
+            ],
+            "answer": 1
+        }
+    ],
+    "Kapitel 4 – Schleifen und Wiederholungen": [
+        {
+            "question": "Welche Schleife prüft die Bedingung vor dem ersten Durchlauf?",
+            "options": [
+                "1) while",
+                "2) do-while",
+                "3) repeat-until",
+                "4) forever"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Schleife wird in Python für zählgesteuerte Abläufe genutzt?",
+            "options": [
+                "1) loop",
+                "2) repeat",
+                "3) for",
+                "4) until"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Funktion erzeugt eine Zahlenfolge?",
+            "options": [
+                "1) count()",
+                "2) list()",
+                "3) range()",
+                "4) seq()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was bezeichnet man als 'Iteration'?",
+            "options": [
+                "1) Einen Durchlauf einer Schleife",
+                "2) Einen Funktionsaufruf",
+                "3) Einen Kommentar",
+                "4) Eine Bedingung"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie beendet man eine Schleife sofort?",
+            "options": [
+                "1) end",
+                "2) stop",
+                "3) break",
+                "4) exit"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welches Schlüsselwort überspringt den aktuellen Schleifendurchlauf?",
+            "options": [
+                "1) skip",
+                "2) continue",
+                "3) pass",
+                "4) jump"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie schreibt man eine Endlosschleife mit while?",
+            "options": [
+                "1) while(1)",
+                "2) while True:",
+                "3) while 0:",
+                "4) while forever:"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie addiert man Werte in einer Schleife fortlaufend?",
+            "options": [
+                "1) Multiplikation",
+                "2) Summierung mit Accumulator",
+                "3) Rekursion",
+                "4) Boolean"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Funktion wird genutzt, um eine Liste rückwärts zu durchlaufen?",
+            "options": [
+                "1) reverse()",
+                "2) reversed()",
+                "3) back()",
+                "4) flip()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie vermeidet man Endlosschleifen?",
+            "options": [
+                "1) Keine Bedingungen",
+                "2) Abbruchbedingung definieren",
+                "3) continue immer nutzen",
+                "4) Nur for-Schleifen verwenden"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches ist KEINE gültige Schleifenform in Python?",
+            "options": [
+                "1) while",
+                "2) for",
+                "3) do-while",
+                "4) nested loop"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie oft läuft range(0,10,2)?",
+            "options": [
+                "1) 5 Mal",
+                "2) 10 Mal",
+                "3) 2 Mal",
+                "4) 20 Mal"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Anweisung kann man als Platzhalter in einer Schleife nutzen?",
+            "options": [
+                "1) stop",
+                "2) skip",
+                "3) pass",
+                "4) break"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was passiert, wenn die while-Bedingung anfangs False ist?",
+            "options": [
+                "1) Endlosschleife",
+                "2) Schleife läuft einmal",
+                "3) Schleife läuft gar nicht",
+                "4) Fehler"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie heißt das Verfahren, wenn Schleifen ineinander verschachtelt sind?",
+            "options": [
+                "1) Parallel",
+                "2) Nested Loops",
+                "3) Deep Loops",
+                "4) Subloops"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie oft wird eine for-Schleife standardmäßig ausgeführt?",
+            "options": [
+                "1) Solange Bedingung erfüllt ist",
+                "2) Endlos",
+                "3) Einmal",
+                "4) Zufällig"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Operator kann den Wert in einer Schleife um 1 erhöhen?",
+            "options": [
+                "1) ++",
+                "2) += 1",
+                "3) =+ 1",
+                "4) inc()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Schleife eignet sich besonders für Arrays und Listen?",
+            "options": [
+                "1) while",
+                "2) for",
+                "3) loop",
+                "4) until"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Ausdruck wiederholt 10 Durchläufe?",
+            "options": [
+                "1) for i in range(10):",
+                "2) for i in 10:",
+                "3) while i < 10",
+                "4) repeat 10"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was passiert, wenn man in einer while-Schleife nie i erhöht?",
+            "options": [
+                "1) Programm endet sofort",
+                "2) Endlosschleife",
+                "3) Fehler im Compiler",
+                "4) Ausgabe stoppt"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Funktion liefert die Länge einer Liste?",
+            "options": [
+                "1) count()",
+                "2) len()",
+                "3) list()",
+                "4) size()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie nennt man eine Schleife innerhalb einer Schleife?",
+            "options": [
+                "1) inner loop",
+                "2) nested loop",
+                "3) loop stack",
+                "4) deep loop"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wofür steht der Parameter range(start, stop, step)?",
+            "options": [
+                "1) Anfang, Ende, Schrittweite",
+                "2) Liste, Länge, Limit",
+                "3) Start nur",
+                "4) Index, Index, Index"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Zahlen erzeugt range(1,4)?",
+            "options": [
+                "1) 1,2,3,4",
+                "2) 1,2,3",
+                "3) 0,1,2,3",
+                "4) 2,3,4"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Anweisung beendet nur den innersten Loop?",
+            "options": [
+                "1) continue",
+                "2) break",
+                "3) stop",
+                "4) exit"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was passiert bei continue?",
+            "options": [
+                "1) Schleife beendet",
+                "2) Schleife springt zum nächsten Durchlauf",
+                "3) Nichts",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Schleife gibt es in Python NICHT?",
+            "options": [
+                "1) while",
+                "2) for",
+                "3) do-while",
+                "4) nested"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Syntax ist korrekt?",
+            "options": [
+                "1) for(i=0;i<5;i++)",
+                "2) for i in range(5):",
+                "3) foreach(i:5)",
+                "4) loop i in 5"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Schleifenform iteriert über Strings?",
+            "options": [
+                "1) only while",
+                "2) only do-while",
+                "3) for",
+                "4) keine"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was erzeugt range(5) standardmäßig?",
+            "options": [
+                "1) 1 bis 5",
+                "2) 0 bis 4",
+                "3) 0 bis 5",
+                "4) 5 bis 10"
+            ],
+            "answer": 2
+        }
+    ],
+    "Kapitel 5 – Funktionen": [
+        {
+            "question": "Welches Schlüsselwort definiert eine Funktion?",
+            "options": [
+                "1) func",
+                "2) def",
+                "3) function",
+                "4) define"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie nennt man eine Funktion, die keinen Rückgabewert liefert?",
+            "options": [
+                "1) Value-Returning",
+                "2) Void",
+                "3) Empty",
+                "4) None"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Vorteile haben Funktionen?",
+            "options": [
+                "1) Weniger Wiederholungen",
+                "2) Einfacheres Testen",
+                "3) Mehr Übersichtlichkeit",
+                "4) Alle genannten"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Wie beginnt die erste Zeile einer Funktion?",
+            "options": [
+                "1) call",
+                "2) begin",
+                "3) def funktionsname():",
+                "4) start"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was versteht man unter Lokalen Variablen?",
+            "options": [
+                "1) Variablen nur in dieser Funktion gültig",
+                "2) Überall gültig",
+                "3) Immer global",
+                "4) Konstanten"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie ruft man eine Funktion auf?",
+            "options": [
+                "1) funktionsname",
+                "2) funktionsname()",
+                "3) call funktionsname",
+                "4) def funktionsname()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie nennt man Werte, die an eine Funktion übergeben werden?",
+            "options": [
+                "1) Returns",
+                "2) Parameter",
+                "3) Arguments",
+                "4) Tokens"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was bedeutet 'Scope' einer Variable?",
+            "options": [
+                "1) Lebensdauer",
+                "2) Speicherort",
+                "3) Sichtbarkeit",
+                "4) Typ"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welches Schlüsselwort verwendet man für eine leere Funktion?",
+            "options": [
+                "1) skip",
+                "2) continue",
+                "3) pass",
+                "4) empty"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was liefert return?",
+            "options": [
+                "1) Gibt Wert zurück",
+                "2) Beendet das Programm",
+                "3) Startet Schleife",
+                "4) Nichts"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Funktion liefert Zufallszahlen?",
+            "options": [
+                "1) random()",
+                "2) randint()",
+                "3) rand()",
+                "4) shuffle()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Funktion gehört zum math-Modul?",
+            "options": [
+                "1) sqrt()",
+                "2) exp()",
+                "3) log()",
+                "4) Alle genannten"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Wie kann man Funktionen auslagern?",
+            "options": [
+                "1) In Klassen",
+                "2) In Module",
+                "3) In Variablen",
+                "4) In Kommentare"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was passiert nach einem return?",
+            "options": [
+                "1) Funktion macht weiter",
+                "2) Funktion endet sofort",
+                "3) Funktion pausiert",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Art von Funktion gibt immer etwas zurück?",
+            "options": [
+                "1) void function",
+                "2) return function",
+                "3) value-returning function",
+                "4) exit function"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was passiert, wenn man return ohne Wert schreibt?",
+            "options": [
+                "1) Funktion gibt None zurück",
+                "2) Fehler",
+                "3) Funktion wiederholt sich",
+                "4) Funktion startet erneut"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was sind Default-Parameter?",
+            "options": [
+                "1) Parameter ohne Namen",
+                "2) Parameter mit Standardwert",
+                "3) Parameter ohne Typ",
+                "4) Parameter, die global sind"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Aussagen zu Parametern stimmt?",
+            "options": [
+                "1) Reihenfolge egal",
+                "2) Reihenfolge kann wichtig sein",
+                "3) Parameter kann man nicht weglassen",
+                "4) Parameter werden ignoriert"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ist ein Funktionskopf?",
+            "options": [
+                "1) erste Zeile der Funktion",
+                "2) letzte Zeile",
+                "3) return-Zeile",
+                "4) Kommentarblock"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie nennt man eine Funktion, die sich selbst aufruft?",
+            "options": [
+                "1) rotating",
+                "2) recursive",
+                "3) internal",
+                "4) nested"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ist ein Modulprefix?",
+            "options": [
+                "1) from import",
+                "2) modulename.function() beim Aufruf",
+                "3) def modulename",
+                "4) return import"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Zeichen kennzeichnet Funktionsblöcke?",
+            "options": [
+                "1) {}",
+                "2) ()",
+                "3) Einrückung",
+                "4) ;"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welches Modul ist Standard für mathematische Funktionen?",
+            "options": [
+                "1) random",
+                "2) numpy",
+                "3) math",
+                "4) pandas"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie importiert man nur sqrt?",
+            "options": [
+                "1) import sqrt",
+                "2) from math import sqrt",
+                "3) use sqrt",
+                "4) include sqrt"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Wert wird zurückgegeben, wenn kein return vorhanden ist?",
+            "options": [
+                "1) 0",
+                "2) False",
+                "3) None",
+                "4) Leerstring"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Aussage zu globalen Variablen trifft zu?",
+            "options": [
+                "1) nur in Funktionen gültig",
+                "2) gelten im gesamten Programm",
+                "3) erzeugen automatisch return",
+                "4) müssen gelöscht werden"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie kann man eine globale Variable innerhalb einer Funktion verändern?",
+            "options": [
+                "1) global varname",
+                "2) define varname",
+                "3) change varname",
+                "4) public varname"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Funktion erzeugt zufällige Gleitkommawerte?",
+            "options": [
+                "1) randint()",
+                "2) uniform()",
+                "3) float()",
+                "4) randfloat()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was passiert, wenn einer Funktion zu viele Argumente übergeben werden?",
+            "options": [
+                "1) Parameter werden ignoriert",
+                "2) Standardwert wird genutzt",
+                "3) TypeError",
+                "4) SyntaxError"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie nennt man Funktionen in Modulen, die man nutzen kann?",
+            "options": [
+                "1) Methoden",
+                "2) Imports",
+                "3) Calls",
+                "4) Returns"
+            ],
+            "answer": 1
+        }
+    ],
+    "Kapitel 6 – Dateien und Ausnahmen": [
+        {
+            "question": "Welche Funktion öffnet eine Datei?",
+            "options": [
+                "1) file()",
+                "2) open()",
+                "3) fopen()",
+                "4) read()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Modus öffnet eine Datei nur zum Lesen?",
+            "options": [
+                "1) 'r'",
+                "2) 'w'",
+                "3) 'a'",
+                "4) 'rw'"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Modus überschreibt eine bestehende Datei?",
+            "options": [
+                "1) 'r'",
+                "2) 'a'",
+                "3) 'w'",
+                "4) 'x'"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Modus hängt Daten an eine Datei an?",
+            "options": [
+                "1) 'r'",
+                "2) 'a'",
+                "3) 'w'",
+                "4) 'add'"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode liest die gesamte Datei?",
+            "options": [
+                "1) read()",
+                "2) readline()",
+                "3) readall()",
+                "4) fetch()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode liest nur eine Zeile?",
+            "options": [
+                "1) read()",
+                "2) readline()",
+                "3) readln()",
+                "4) scanline()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Schlüsselwort sorgt dafür, dass Dateien automatisch geschlossen werden?",
+            "options": [
+                "1) close",
+                "2) end",
+                "3) with",
+                "4) stop"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie schreibt man Text in eine Datei?",
+            "options": [
+                "1) write()",
+                "2) append()",
+                "3) print()",
+                "4) send()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was ist ein häufiger Fehler beim Dateihandling?",
+            "options": [
+                "1) Datei nicht schließen",
+                "2) Falscher Name",
+                "3) Falscher Pfad",
+                "4) Alle genannten"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Was ist eine Exception?",
+            "options": [
+                "1) Ein Fehlerzustand",
+                "2) Eine Funktion",
+                "3) Ein Kommentar",
+                "4) Eine Bibliothek"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welches Schlüsselwort fängt Exceptions ab?",
+            "options": [
+                "1) catch",
+                "2) try-except",
+                "3) throw",
+                "4) error"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie heißt der Block, der immer ausgeführt wird?",
+            "options": [
+                "1) always",
+                "2) finally",
+                "3) end",
+                "4) exit"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Funktion wandelt Text in Zahl um?",
+            "options": [
+                "1) toInt()",
+                "2) int()",
+                "3) parseInt()",
+                "4) number()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Format beschreibt eine Textdatei?",
+            "options": [
+                "1) Binär",
+                "2) UTF-8",
+                "3) Hex",
+                "4) JSON"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie überprüft man, ob eine Datei existiert?",
+            "options": [
+                "1) exists()",
+                "2) os.path.exists()",
+                "3) file.exists()",
+                "4) file.check()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was passiert bei open('file.txt','x') wenn Datei schon existiert?",
+            "options": [
+                "1) Datei wird überschrieben",
+                "2) Neue Datei wird angelegt",
+                "3) Fehler",
+                "4) Datei wird gelöscht"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Methode schließt eine Datei?",
+            "options": [
+                "1) end()",
+                "2) close()",
+                "3) exit()",
+                "4) stop()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Datentyp entsteht beim Lesen aus einer Textdatei?",
+            "options": [
+                "1) int",
+                "2) float",
+                "3) str",
+                "4) bool"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was macht json.load()?",
+            "options": [
+                "1) erstellt JSON",
+                "2) liest JSON aus Datei",
+                "3) konvertiert JSON in Text",
+                "4) löscht JSON"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was macht json.dump()?",
+            "options": [
+                "1) schreibt ein Objekt als JSON",
+                "2) löscht JSON",
+                "3) liest JSON",
+                "4) validiert JSON"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Fehlertyp tritt bei Division durch 0 auf?",
+            "options": [
+                "1) ZeroDivisionError",
+                "2) ValueError",
+                "3) TypeError",
+                "4) FileError"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Fehler entsteht bei falscher Eingabe eines Typs?",
+            "options": [
+                "1) TypeError",
+                "2) ValueError",
+                "3) InputError",
+                "4) FormatError"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was macht raise?",
+            "options": [
+                "1) beendet Programm",
+                "2) löst eine Exception aus",
+                "3) ignoriert Fehler",
+                "4) repariert Fehler automatisch"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie heißt der Abschnitt nach try, wenn kein Fehler passiert?",
+            "options": [
+                "1) good",
+                "2) okay",
+                "3) else",
+                "4) success"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was macht readlines()?",
+            "options": [
+                "1) liest alle Zeilen als Liste",
+                "2) liest eine Zeile",
+                "3) schreibt Text",
+                "4) zählt Zeilen"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Modus schreibt nur an das Ende?",
+            "options": [
+                "1) 'w'",
+                "2) 'a'",
+                "3) 'x'",
+                "4) 'r'"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was macht codecs.open()?",
+            "options": [
+                "1) nur schreiben",
+                "2) Dateien verschlüsseln",
+                "3) Dateien mit Encoding öffnen",
+                "4) Dateien löschen"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welches Encoding ist in Python Standard?",
+            "options": [
+                "1) ASCII",
+                "2) Latin-1",
+                "3) UTF-8",
+                "4) ISO"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Ausnahme tritt beim Zugriff auf eine falsche Datei auf?",
+            "options": [
+                "1) FileNotFoundError",
+                "2) IOError",
+                "3) NameError",
+                "4) ReadError"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was passiert im finally-Block?",
+            "options": [
+                "1) wird übersprungen",
+                "2) wird nur bei Fehler ausgeführt",
+                "3) wird immer ausgeführt",
+                "4) wird nur ohne Fehler ausgeführt"
+            ],
+            "answer": 3
+        }
+    ],
+    "Kapitel 7 – Listen und Tupel": [
+        {
+            "question": "Welches ist die wichtigste Eigenschaft einer Liste?",
+            "options": [
+                "1) Unveränderlich",
+                "2) Veränderbar (mutable)",
+                "3) Nur Zahlen erlaubt",
+                "4) Immer sortiert"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie erstellt man eine Liste?",
+            "options": [
+                "1) list()",
+                "2) []",
+                "3) [1,2,3]",
+                "4) Alle genannten"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Welcher Index greift auf das erste Element einer Liste zu?",
+            "options": [
+                "1) 1",
+                "2) 0",
+                "3) -1",
+                "4) 2"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Operator verbindet zwei Listen?",
+            "options": [
+                "1) +",
+                "2) &",
+                "3) concat()",
+                "4) join()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was liefert len([10,20,30])?",
+            "options": [
+                "1) 2",
+                "2) 3",
+                "3) 10",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Schlüsselwort löscht ein Element aus einer Liste?",
+            "options": [
+                "1) delete",
+                "2) remove",
+                "3) del",
+                "4) pop"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Listentyp ist nicht veränderbar?",
+            "options": [
+                "1) tuple",
+                "2) list",
+                "3) array",
+                "4) dict"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode hängt ein Element am Ende der Liste an?",
+            "options": [
+                "1) add()",
+                "2) append()",
+                "3) insert()",
+                "4) extend()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Ergebnis liefert mylist[-1]?",
+            "options": [
+                "1) Das erste Element",
+                "2) Das letzte Element",
+                "3) Fehler",
+                "4) Immer None"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie erstellt man eine verschachtelte Liste?",
+            "options": [
+                "1) [[]]",
+                "2) [[],[]]",
+                "3) [[1,2],[3,4]]",
+                "4) Alle genannten"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Welches ist KEINE Listenmethode?",
+            "options": [
+                "1) append()",
+                "2) sort()",
+                "3) remove()",
+                "4) split()"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Was liefert sum([1,2,3])?",
+            "options": [
+                "1) 3",
+                "2) 6",
+                "3) 123",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Befehl erstellt eine Kopie einer Liste?",
+            "options": [
+                "1) copy()",
+                "2) clone()",
+                "3) list()",
+                "4) Alle genannten"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Was passiert bei list.sort()?",
+            "options": [
+                "1) Neue Liste zurückgegeben",
+                "2) Liste wird sortiert",
+                "3) Nichts",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie kann man über alle Elemente einer Liste iterieren?",
+            "options": [
+                "1) for item in liste:",
+                "2) while liste:",
+                "3) each liste",
+                "4) iterate(liste)"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Datentyp unterstützt das Entpacken mit a, b = tupel?",
+            "options": [
+                "1) list",
+                "2) tuple",
+                "3) dict",
+                "4) set"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was liefert mylist.pop()?",
+            "options": [
+                "1) Löscht erstes Element",
+                "2) Löscht letztes Element und gibt es zurück",
+                "3) Löscht zufälliges Element",
+                "4) Fügt Element hinzu"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Ausdruck erzeugt ein Tupel?",
+            "options": [
+                "1) ()",
+                "2) []",
+                "3) {}",
+                "4) <>"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode fügt eine Liste an eine andere an?",
+            "options": [
+                "1) add()",
+                "2) extend()",
+                "3) appendlist()",
+                "4) insert()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie greift man auf das zweite Element eines Tupels zu?",
+            "options": [
+                "1) t[0]",
+                "2) t[1]",
+                "3) t(1)",
+                "4) t.1"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Eigenschaft hat ein Tupel?",
+            "options": [
+                "1) sortierbar",
+                "2) unveränderlich",
+                "3) automatisch einzigartig",
+                "4) immer numerisch"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Funktion zählt, wie oft ein Wert vorkommt?",
+            "options": [
+                "1) freq()",
+                "2) occurrences()",
+                "3) count()",
+                "4) number()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie fügt man ein Element an einer bestimmten Stelle ein?",
+            "options": [
+                "1) append()",
+                "2) insert()",
+                "3) add()",
+                "4) push()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie löscht man das letzte Element?",
+            "options": [
+                "1) remove()",
+                "2) del list[-1]",
+                "3) pop()",
+                "4) drop()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Funktion liefert das Maximum einer Liste?",
+            "options": [
+                "1) max()",
+                "2) top()",
+                "3) maximum()",
+                "4) high()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welches Sortierverfahren wird in Python intern benutzt?",
+            "options": [
+                "1) Bubble Sort",
+                "2) Timsort",
+                "3) Quick Sort",
+                "4) Merge Sort"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie kann man ein Tupel in eine Liste umwandeln?",
+            "options": [
+                "1) tuple()",
+                "2) list()",
+                "3) convert()",
+                "4) array()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Operator prüft, ob ein Element enthalten ist?",
+            "options": [
+                "1) in",
+                "2) exists",
+                "3) find",
+                "4) include"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie trennt split() eine Zeichenkette?",
+            "options": [
+                "1) in Wörter",
+                "2) in Listen",
+                "3) an Leerzeichen oder Separator",
+                "4) zufällig"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Datentypen können Listen enthalten?",
+            "options": [
+                "1) nur ints",
+                "2) nur Strings",
+                "3) beliebige Datentypen gemischt",
+                "4) nur Listen"
+            ],
+            "answer": 3
+        }
+    ],
+    "Kapitel 8 – Strings": [
+        {
+            "question": "Welche Eigenschaft haben Strings in Python?",
+            "options": [
+                "1) Mutable",
+                "2) Immutable",
+                "3) Beliebig änderbar",
+                "4) Immer Zahl"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Operator verbindet Strings?",
+            "options": [
+                "1) +",
+                "2) *",
+                "3) concat()",
+                "4) join()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie greift man auf das erste Zeichen von 'Hallo' zu?",
+            "options": [
+                "1) Hallo[1]",
+                "2) Hallo[0]",
+                "3) Hallo[-1]",
+                "4) Hallo.first()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode wandelt String in Kleinbuchstaben?",
+            "options": [
+                "1) lower()",
+                "2) down()",
+                "3) tolower()",
+                "4) lowercase()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode entfernt Leerzeichen am Anfang und Ende?",
+            "options": [
+                "1) strip()",
+                "2) clean()",
+                "3) cut()",
+                "4) trim()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Operator prüft, ob ein Zeichen in einem String vorkommt?",
+            "options": [
+                "1) in",
+                "2) has",
+                "3) contains",
+                "4) within"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode ersetzt Teilstrings?",
+            "options": [
+                "1) replace()",
+                "2) change()",
+                "3) substitute()",
+                "4) swap()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie schneidet man Teilstrings heraus?",
+            "options": [
+                "1) substring()",
+                "2) slice",
+                "3) string[start:end]",
+                "4) cut()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Befehl gibt die Länge eines Strings?",
+            "options": [
+                "1) size()",
+                "2) count()",
+                "3) len()",
+                "4) length()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Methode prüft, ob String mit bestimmtem Text beginnt?",
+            "options": [
+                "1) start()",
+                "2) begins()",
+                "3) startswith()",
+                "4) prefix()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie fügt man mehrere Strings mit Trennzeichen zusammen?",
+            "options": [
+                "1) merge()",
+                "2) +",
+                "3) join()",
+                "4) glue()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was passiert bei 'Hallo' * 3?",
+            "options": [
+                "1) 'HalloHalloHallo'",
+                "2) Fehler",
+                "3) '3Hallo'",
+                "4) None"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Vergleich ist case-sensitive?",
+            "options": [
+                "1) 'a' == 'A'",
+                "2) 'a'.lower() == 'A'.lower()",
+                "3) 'abc' in 'ABC'.lower()",
+                "4) 'Test'=='Test'"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode wandelt in Großbuchstaben?",
+            "options": [
+                "1) upper()",
+                "2) toUpper()",
+                "3) caps()",
+                "4) uppercase()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Ausdruck liefert den letzten Buchstaben von s?",
+            "options": [
+                "1) s[-1]",
+                "2) s[0]",
+                "3) s[last]",
+                "4) s.end()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode prüft, ob ein String nur Zahlen enthält?",
+            "options": [
+                "1) isnum()",
+                "2) isdigit()",
+                "3) isnumeric()",
+                "4) onlydigits()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode prüft, ob der String nur Buchstaben enthält?",
+            "options": [
+                "1) isalpha()",
+                "2) letters()",
+                "3) onlyalpha()",
+                "4) alphabet()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode prüft, ob alles leer ist?",
+            "options": [
+                "1) empty()",
+                "2) isspace()",
+                "3) spaceonly()",
+                "4) whitespace()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie überprüft man das Ende eines Strings?",
+            "options": [
+                "1) ends()",
+                "2) end()",
+                "3) endswith()",
+                "4) suffix()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Wie findet man die Position eines Substrings?",
+            "options": [
+                "1) search()",
+                "2) locate()",
+                "3) find()",
+                "4) match()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was liefert split() standardmäßig?",
+            "options": [
+                "1) Liste von Buchstaben",
+                "2) Liste von Wörtern (nach Leerzeichen)",
+                "3) Liste von Sätzen",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode zählt Vorkommen in einem String?",
+            "options": [
+                "1) count()",
+                "2) findAll()",
+                "3) len()",
+                "4) occurrences()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie verbindet man eine Liste zu einem String?",
+            "options": [
+                "1) join()",
+                "2) merge()",
+                "3) arrayToString()",
+                "4) glue()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie entfernt man nur führende Leerzeichen?",
+            "options": [
+                "1) lstrip()",
+                "2) strip()",
+                "3) rstrip()",
+                "4) removestart()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Ausdruck ist immer True?",
+            "options": [
+                "1) 'a' in 'apple'",
+                "2) 'A' in 'apple'",
+                "3) 'z' in 'apple'",
+                "4) '' in 'abc'"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Welche Funktion gibt Unicode-Codepunkt zurück?",
+            "options": [
+                "1) ascii()",
+                "2) ord()",
+                "3) chr()",
+                "4) code()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Funktion erzeugt ein Zeichen aus einem Code?",
+            "options": [
+                "1) ascii()",
+                "2) ord()",
+                "3) chr()",
+                "4) unicode()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was passiert bei 'Python'.replace('Py','My')?",
+            "options": [
+                "1) 'Python'",
+                "2) 'Mython'",
+                "3) Fehler",
+                "4) None"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode löscht nichts, sondern gibt nur neuen String zurück?",
+            "options": [
+                "1) replace()",
+                "2) delete()",
+                "3) erase()",
+                "4) cut()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Ausdruck ist korrekt?",
+            "options": [
+                "1) s.charAt(0)",
+                "2) s[0]",
+                "3) char(s,0)",
+                "4) s{0}"
+            ],
+            "answer": 2
+        }
+    ],
+    "Kapitel 9 – Dictionaries und Sets": [
+        {
+            "question": "Wie erstellt man ein Dictionary?",
+            "options": [
+                "1) []",
+                "2) dict()",
+                "3) {}",
+                "4) Beides 2 und 3"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Was ist ein Schlüssel in einem Dictionary?",
+            "options": [
+                "1) Immer Zahl",
+                "2) Muss unveränderlich sein",
+                "3) Kann veränderbar sein",
+                "4) Muss String sein"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie greift man auf einen Wert im Dictionary zu?",
+            "options": [
+                "1) dict.key",
+                "2) dict(key)",
+                "3) dict['key']",
+                "4) get(key)"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Methode gibt alle Schlüssel zurück?",
+            "options": [
+                "1) dict.items()",
+                "2) dict.keys()",
+                "3) dict.values()",
+                "4) dict.all()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode gibt alle Werte zurück?",
+            "options": [
+                "1) dict.items()",
+                "2) dict.keys()",
+                "3) dict.values()",
+                "4) dict.all()"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was passiert bei dict['x'] wenn Schlüssel nicht existiert?",
+            "options": [
+                "1) 0 zurück",
+                "2) None zurück",
+                "3) KeyError",
+                "4) False"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Methode vermeidet KeyError?",
+            "options": [
+                "1) get()",
+                "2) safeget()",
+                "3) find()",
+                "4) check()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welches Schlüsselwort löscht ein Element aus einem Dictionary?",
+            "options": [
+                "1) remove",
+                "2) del",
+                "3) delete",
+                "4) erase"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Struktur speichert nur eindeutige Werte?",
+            "options": [
+                "1) Liste",
+                "2) Dict",
+                "3) Set",
+                "4) Tupel"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welcher Operator vereinigt zwei Sets?",
+            "options": [
+                "1) &",
+                "2) |",
+                "3) +",
+                "4) union()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Operator liefert Schnittmenge zweier Sets?",
+            "options": [
+                "1) |",
+                "2) &",
+                "3) -",
+                "4) ^"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welches Ergebnis liefert {1,2,3} - {2}?",
+            "options": [
+                "1) {1,3}",
+                "2) {2}",
+                "3) {1,2}",
+                "4) Fehler"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode entfernt alle Elemente eines Sets?",
+            "options": [
+                "1) clear()",
+                "2) remove()",
+                "3) reset()",
+                "4) empty()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Datentypen können als Schlüssel in Dictionaries verwendet werden?",
+            "options": [
+                "1) Listen",
+                "2) Sets",
+                "3) Strings und Zahlen",
+                "4) Alle"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Was liefert len({'a':1,'b':2})?",
+            "options": [
+                "1) 1",
+                "2) 2",
+                "3) 3",
+                "4) Fehler"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Schreibweise erzeugt ein leeres Set?",
+            "options": [
+                "1) {}",
+                "2) set()",
+                "3) []",
+                "4) None"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Wie fügt man ein Element in ein Dictionary ein?",
+            "options": [
+                "1) dict.add(key,value)",
+                "2) dict[key] = value",
+                "3) dict.insert(key,value)",
+                "4) dict.append()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode gibt Schlüssel und Werte zusammen zurück?",
+            "options": [
+                "1) items()",
+                "2) keys()",
+                "3) values()",
+                "4) all()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Ausdruck prüft, ob ein Schlüssel im Dictionary steht?",
+            "options": [
+                "1) if key in dict:",
+                "2) if dict.contains(key):",
+                "3) if dict.key:",
+                "4) if key exists dict:"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was liefert dict.get('x',0)?",
+            "options": [
+                "1) immer Fehler",
+                "2) None",
+                "3) 0 wenn nicht vorhanden",
+                "4) False"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Welche Struktur speichert Schlüssel-Wert-Paare?",
+            "options": [
+                "1) list",
+                "2) dict",
+                "3) tuple",
+                "4) set"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was macht update() mit Dictionaries?",
+            "options": [
+                "1) überschreibt und ergänzt",
+                "2) löscht Werte",
+                "3) sortiert",
+                "4) validiert Schlüssel"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welcher Operator liefert die Differenz von Sets?",
+            "options": [
+                "1) -",
+                "2) +",
+                "3) &",
+                "4) |"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Wie überprüft man ob ein Set leer ist?",
+            "options": [
+                "1) set.isempty()",
+                "2) len(set)==0",
+                "3) empty(set)",
+                "4) set.size()==0"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welche Methode entfernt zufälliges Element aus einem Set?",
+            "options": [
+                "1) pop()",
+                "2) remove()",
+                "3) del()",
+                "4) discard()"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Welche Methode entfernt Element nur wenn vorhanden?",
+            "options": [
+                "1) pop()",
+                "2) discard()",
+                "3) remove()",
+                "4) del"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Welcher Operator liefert die symmetrische Differenz?",
+            "options": [
+                "1) &",
+                "2) |",
+                "3) -",
+                "4) ^"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Wie erzeugt man ein Set mit Zahlen 1,2,3?",
+            "options": [
+                "1) {1,2,3}",
+                "2) [1,2,3]",
+                "3) (1,2,3)",
+                "4) <1,2,3>"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Was ist ein typischer Einsatz von Sets?",
+            "options": [
+                "1) Werte ordnen",
+                "2) Duplikate vermeiden",
+                "3) Funktionen speichern",
+                "4) Dateien öffnen"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Was ergibt len({1,1,2,2,3})?",
+            "options": [
+                "1) 5",
+                "2) 4",
+                "3) 3",
+                "4) 2"
+            ],
+            "answer": 3
+        }
+    ]
+}
