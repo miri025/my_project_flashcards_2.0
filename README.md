@@ -138,7 +138,7 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 - Antworten validieren
 - Quiz beenden (regulär oder Abbruch)
 - Auswertung anzeigen
-- Ergebnis im Leaderboard speichern
+- Bestes Ergebnis im Leaderboard speichern
 - Leaderboard anzeigen
 
 ### Akteure
@@ -203,7 +203,7 @@ Die Applikation läuft vollständig im Browser. Benutzer können:
 - Kapitel und Anzahl Fragen auswählen
 - Fragen beantworten und sofortiges Feedback erhalten
 - Das Quiz jederzeit abbrechen
-- Ergebnisse und das Leaderboard einsehen
+- Das beste Ergebnis und das Leaderboard einsehen
 
 **Architektur-Hinweis:** Der Browser ist ein Thin Client. Alle UI-Zustände und Businesslogik laufen serverseitig in der NiceGUI-Applikation.
 
