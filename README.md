@@ -118,9 +118,9 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 
 ---
 
-### 12. Session speichern
+### 12. Bestes Ergebnis speichern
 
-**Als User möchte ich, dass meine Session im Leaderboard gespeichert wird.**
+**Als User möchte ich, dass mein bestes Ergebnis im Leaderboard gespeichert und angezeigt wird.**
 
 - **Inputs:** Benutzername, Punktzahl (`string`, `int`)
 - **Outputs:** Aktualisiertes Leaderboard
