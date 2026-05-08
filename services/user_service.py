@@ -36,7 +36,41 @@ class UserService:
             return False, "Benutzername muss mindestens einen Buchstaben und eine Ziffer enthalten."
 
         return True, ""
+    
+    def check_username_availability(
+        self,
+        username: str
+    ) -> tuple[bool, bool, str]:
+        """
+        Prüft ob der Benutzername gültig und bereits vergeben ist.
 
+        Rückgabe:
+        (
+            is_valid,
+            is_taken,
+            message
+        )
+        """
+        is_valid, message = self.validate_username(username)
+
+        if not is_valid:
+            return False, False, message
+
+        is_taken = self.is_username_taken(username)
+
+        if is_taken:
+            return (
+                True,
+                True,
+                (
+                    "Benutzername bereits vergeben. "
+                    "Du kannst trotzdem fortfahren "
+                    "oder einen neuen wählen."
+                )
+            )
+
+        return True, False, ""
+ 
     def is_username_taken(self, username: str) -> bool:
         """
         Prüft ob der Benutzername bereits in der Datenbank existiert.
