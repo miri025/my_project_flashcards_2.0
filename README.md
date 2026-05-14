@@ -323,15 +323,75 @@ Die im Terminal angezeigte URL öffnen (Standard: `http://localhost:8080`).
 
 ---
 
-## 🧪 Tests
+## 🧪 Testing
+
+> Erklärung, welche Funktionen getestet werden und wie die Tests ausgeführt werden.
+
+### Test mix
+
+- Overall **10 tests**
+
+- **4 Unit tests:** z. B. Punkteberechnung anhand richtiger/falscher Antworten, Validierung leerer Benutzernamen, gültige Anzahl Fragen (10,20,30), Ablehnung ungültiger Anzahl Fragen
+
+- **3 DB tests:** z. B. Fragen werden aus Seed-Daten geladen, Benutzer werden korrekt gespeichert, Resultate werden im Leaderboard gespeichert
+
+- **3 Integration tests:** z. B. Fragen werden aus der Datenbank geladen, Quiz-Session enthält keine doppelten Fragen, abgeschlossene Quiz-Session speichert Resultate korrekt
 
 ---
 
-Geplante Testabdeckung:
+### Tests ausführen
 
-- **Unit-Tests:** Benutzernamen-Validierung, Punkteberechnung, Kapitel- und Fragenauswahl
-- **DB-Tests:** Benutzererstellung, Ergebnisspeicherung, Leaderboard-Abfrage
-- **Integrationstests:** Vollständiger Quiz-Ablauf, Abbruch-Ablauf
+Alle Tests starten:
+
+```bash
+pytest
+```
+
+oder:
+
+```bash
+python -m pytest
+```
+
+Einzelne Testdatei starten:
+
+```bash
+pytest tests/test_unit.py
+```
+
+---
+
+### Teststruktur
+
+```text
+tests/
+├── conftest.py
+├── test_unit.py
+├── test_db.py
+└── test_integration.py
+```
+
+---
+
+### Template for writing test cases
+
+1. Test case ID – eindeutige Identifikation (z.B. TC_001)
+
+2. Test case title / description – Was wird getestet?
+
+3. Preconditions – Voraussetzungen vor Testausführung
+
+4. Test steps – Auszuführende Schritte
+
+5. Test data / input
+
+6. Expected result
+
+7. Actual result
+
+8. Status – Pass / Fail
+
+9. Comments – Zusätzliche Hinweise oder Fehler
 
 ---
 
