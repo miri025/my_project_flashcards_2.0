@@ -366,9 +366,9 @@ pytest tests/test_unit.py
 ```text
 tests/
 ├── conftest.py
-├── test_unit.py
 ├── test_db.py
-└── test_integration.py
+├── test_integration.py
+└── test_unit.py
 ```
 
 ---
