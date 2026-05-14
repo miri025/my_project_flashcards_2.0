@@ -329,13 +329,13 @@ Die im Terminal angezeigte URL öffnen (Standard: `http://localhost:8080`).
 
 ### Test mix
 
-- Overall **10 tests**
+- Overall **10 Tests**
 
-- **4 Unit tests:** z. B. Punkteberechnung anhand richtiger/falscher Antworten, Validierung leerer Benutzernamen, gültige Anzahl Fragen (10,20,30), Ablehnung ungültiger Anzahl Fragen
+- **4 Unit Tests:** z. B. Prozentberechnung der Quiz-Zusammenfassung, Validierung von Benutzernamen, gültige Auswahl der Fragenanzahl (10/20/30), Ablehnung ungültiger Eingaben
 
-- **3 DB tests:** z. B. Fragen werden aus Seed-Daten geladen, Benutzer werden korrekt gespeichert, Resultate werden im Leaderboard gespeichert
+- **3 DB Tests:** z. B. Fragen werden aus den initialen Fragendaten geladen, Benutzer werden korrekt gespeichert, Quiz-Ergebnisse werden korrekt gespeichert
 
-- **3 Integration tests:** z. B. Fragen werden aus der Datenbank geladen, Quiz-Session enthält keine doppelten Fragen, abgeschlossene Quiz-Session speichert Resultate korrekt
+- **3 Integration Tests:** z. B. Laden von Fragen aus der Datenbank, Vermeidung doppelter Fragen in einer Quiz-Session, korrektes Speichern abgeschlossener Quiz-Ergebnisse
 
 ---
 
@@ -344,16 +344,16 @@ Die im Terminal angezeigte URL öffnen (Standard: `http://localhost:8080`).
 Alle Tests starten:
 
 ```bash
-pytest
+python -m pytest
 ```
 
 oder:
 
 ```bash
-python -m pytest
+pytest
 ```
 
-Einzelne Testdatei starten:
+Einzelne Testdatei ausführen:
 
 ```bash
 pytest tests/test_unit.py
@@ -370,28 +370,6 @@ tests/
 ├── test_db.py
 └── test_integration.py
 ```
-
----
-
-### Template for writing test cases
-
-1. Test case ID – eindeutige Identifikation (z.B. TC_001)
-
-2. Test case title / description – Was wird getestet?
-
-3. Preconditions – Voraussetzungen vor Testausführung
-
-4. Test steps – Auszuführende Schritte
-
-5. Test data / input
-
-6. Expected result
-
-7. Actual result
-
-8. Status – Pass / Fail
-
-9. Comments – Zusätzliche Hinweise oder Fehler
 
 ---
 
