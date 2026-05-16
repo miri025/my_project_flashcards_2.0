@@ -128,6 +128,8 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 ---
 
 ## 🧩 Use Cases
+---
+![alt text](<OOP_Flashcards_Use Cases.png>)
 
 ### Haupt-Use-Cases
 
@@ -146,6 +148,10 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 - **User** – nimmt am Quiz teil, sieht Ergebnisse und Leaderboard
 
 ---
+
+## Wireframes / Mockups
+
+![alt text](<OOP_Flashcars_Wireframes & Mockups.png>)
 
 ## 🏛️ Architektur
 
