@@ -128,6 +128,8 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 ---
 
 ## 🧩 Use Cases
+---
+![alt text](<OOP_Flashcards_Use Cases.png>)
 
 ### Haupt-Use-Cases
 
@@ -146,6 +148,10 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 - **User** – nimmt am Quiz teil, sieht Ergebnisse und Leaderboard
 
 ---
+
+## Wireframes / Mockups
+
+![alt text](<OOP_Flashcars_Wireframes & Mockups.png>)
 
 ## 🏛️ Architektur
 
@@ -323,15 +329,53 @@ Die im Terminal angezeigte URL öffnen (Standard: `http://localhost:8080`).
 
 ---
 
-## 🧪 Tests
+## 🧪 Testing
+
+> Erklärung, welche Funktionen getestet werden und wie die Tests ausgeführt werden.
+
+### Test mix
+
+- Overall **10 Tests**
+
+- **4 Unit Tests:** z. B. Prozentberechnung der Quiz-Zusammenfassung, Validierung von Benutzernamen, gültige Auswahl der Fragenanzahl (10/20/30), Ablehnung ungültiger Eingaben
+
+- **3 DB Tests:** z. B. Fragen werden aus den initialen Fragendaten geladen, Benutzer werden korrekt gespeichert, Quiz-Ergebnisse werden korrekt gespeichert
+
+- **3 Integration Tests:** z. B. Laden von Fragen aus der Datenbank, Vermeidung doppelter Fragen in einer Quiz-Session, korrektes Speichern abgeschlossener Quiz-Ergebnisse
 
 ---
 
-Geplante Testabdeckung:
+### Tests ausführen
 
-- **Unit-Tests:** Benutzernamen-Validierung, Punkteberechnung, Kapitel- und Fragenauswahl
-- **DB-Tests:** Benutzererstellung, Ergebnisspeicherung, Leaderboard-Abfrage
-- **Integrationstests:** Vollständiger Quiz-Ablauf, Abbruch-Ablauf
+Alle Tests starten:
+
+```bash
+python -m pytest
+```
+
+oder:
+
+```bash
+pytest
+```
+
+Einzelne Testdatei ausführen:
+
+```bash
+pytest tests/test_unit.py
+```
+
+---
+
+### Teststruktur
+
+```text
+tests/
+├── conftest.py
+├── test_db.py
+├── test_integration.py
+└── test_unit.py
+```
 
 ---
 
