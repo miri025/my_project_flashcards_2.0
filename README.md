@@ -182,7 +182,7 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 
 ## 🗄️ Datenbank und ORM
 
-![alt text](database_diagram.png)
+![alt text](architecture-diagrams/database_diagram.png)
 
 ### Entitäten
 
