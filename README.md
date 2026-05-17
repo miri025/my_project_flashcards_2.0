@@ -182,7 +182,7 @@ FlashcardsPP ist eine digitale Quiz-Applikation, die das Lernen mit Karteikarten
 
 ## 🗄️ Datenbank und ORM
 
-Die Applikation verwendet **SQLAlchemy** mit einer **SQLite**-Datenbank.
+![alt text](database_diagram.png)
 
 ### Entitäten
 
